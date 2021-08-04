@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @hectorzea-eb
-- 👀 I’m interested in learn new things
-- 🌱 I’m currently learning javascript in depth
-- 💞️ I’m looking to collaborate on work
-- 📫 How to reach me hzea@eventbrite.com
-- ☮️ Fawkes Team <3
-
-<!---
-hectorzea-eb/hectorzea-eb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+FAWKES TEAM!!!
+![fawkes-the-phoenix-janice-mcgregor](https://user-images.githubusercontent.com/82057402/128194683-85646837-2a1c-4ef9-bb80-b765f42151f9.jpeg)
